@@ -1,0 +1,35 @@
+body {
+	color: black;
+	background-color: white;
+	background-image: url(tenor.gif);
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+.haut {
+	color: white;
+	text-align: center;
+	font-size: 25px;
+	width: 600px;
+	border-radius: 20px;
+	color: black;
+	background-color: yellow;
+	opacity: 0.8;
+	font-family: 'Dancing Script', cursive;
+}
+
+main {
+	display: flex;
+	justify-content: center;
+	color: black;
+	margin-top: 10%;
+	margin: center;
+}
+
+img {
+	width: 10em;
+	height: 10em;
+	float: right;
+	margin-top: -7%;
+}
